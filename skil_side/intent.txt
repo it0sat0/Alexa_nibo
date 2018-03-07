@@ -1,0 +1,44 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "store",
+          "type": "Store_of_Nibo"
+        }
+      ],
+      "intent": "Nibo_Store_test"
+    },
+    {
+      "slots": [
+        {
+          "name": "talk",
+          "type": "Talk_of_Nibo"
+        }
+      ],
+      "intent": "Nibo_talk_test"
+    },
+    {
+      "slots": [
+        {
+          "name": "Menu",
+          "type": "Menu_of_Nibo"
+        },
+        {
+          "name": "Rou",
+          "type": "Rou_of_Nibo"
+        }
+      ],
+      "intent": "Nubo_test"
+    }
+  ]
+}

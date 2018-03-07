@@ -1,0 +1,8 @@
+Menu_of_Nibo
+	‚É‚Ú | X | Š | “Øœ | ‰– | Žð””	 
+Rou_of_Nibo
+	‚¢‚¿‚ë‚¤ | ‚¢‚¿‚ë‚¤”¼ | ‚¶‚ë‚¤ | ‚¶‚ë‚¤”¼ | ‚³‚Ô‚ë‚¤ | ‚µ‚ë‚¤ | ‚²‚ë‚¤	 
+Store_of_Nibo
+	ÎŽR‚É‚Ú | ‚Ý‚È‚­‚³‚É‚Ú | ‘’Ã‚É‚Ú	 
+Talk_of_Nibo
+	‚¢‚µ‚â‚Ü‚Ÿ | ‚Ü‚µ‚Ü‚µ‚¡
